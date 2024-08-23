@@ -2,7 +2,7 @@
 
 capibara-emacs is the emacs plugin for using Capibara documentation.
 
-![Key-word Lookup Documentation](images/capibara.mov)
+![Key-word Lookup Documentation](images/capibara.gif)
 
 ## Features
 
